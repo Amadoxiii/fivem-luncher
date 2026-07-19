@@ -41,7 +41,3 @@ Le launcher stocke sa configuration à côté de l'exécutable :
 
 - Windows
 - FiveM installé (détection automatique via `%LOCALAPPDATA%\FiveM`)
-
-## 📜 Licence
-
-À définir (MIT recommandé pour un projet open-source de ce type).
